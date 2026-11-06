@@ -1,4 +1,10 @@
 Obesity Level Classification using Machine Learning
+
+**Live Application**
+The deployed Streamlit application is available here:
+
+https://ml-assignment-2-obesity-classification-d6z47dvw2syuhjhmfkdajm.streamlit.app
+
 1. Problem Statement
 The objective of this project is to develop and compare multiple machine learning classification models for predicting obesity levels based on eating habits, physical condition, and lifestyle characteristics.
 
